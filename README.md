@@ -1,2 +1,2 @@
 # VPS-Bot
-Nodejs VPS Bot
+Bot by munafgamer
